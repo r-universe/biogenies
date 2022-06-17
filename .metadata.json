@@ -1,0 +1,14 @@
+[
+  {
+    "package": "CancerGram",
+    "oncran": true
+  },
+  {
+    "package": "countfitteR",
+    "oncran": true
+  },
+  {
+    "package": "tidysq",
+    "oncran": true
+  }
+]
