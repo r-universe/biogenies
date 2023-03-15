@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "CancerGram"]
-	path = CancerGram
-	url = https://github.com/biogenies/cancergram
+[submodule "tidysq"]
+	path = tidysq
+	url = https://github.com/biogenies/tidysq
 	shallow = true
 	registered = true
 [submodule "countfitteR"]
@@ -13,8 +13,8 @@
 	url = https://github.com/biogenies/countfitter
 	shallow = true
 	registered = true
-[submodule "tidysq"]
-	path = tidysq
-	url = https://github.com/biogenies/tidysq
+[submodule "CancerGram"]
+	path = CancerGram
+	url = https://github.com/biogenies/cancergram
 	shallow = true
 	registered = true
